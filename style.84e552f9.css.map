@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles\\style.scss"],"names":[],"mappings":"AAAA,KACE,6BAAiC,CAGnC,KACE,QAAS,CAGX,MACE,sBAAkB,CAClB,sBAAe","file":"style.84e552f9.css","sourceRoot":"..\\src","sourcesContent":["html {\n  font-family: \"Roboto\", sans-serif;\n}\n\nbody {\n  margin: 0;\n}\n\n:root {\n  --min-margin-side: 16px;\n  --color-button: #00acdc;\n}\n"]}
